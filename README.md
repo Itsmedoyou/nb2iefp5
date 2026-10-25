@@ -5,7 +5,7 @@ A web app for a GB energy utility's day-ahead power buying team. It answers two 
 1. **What did the wind forecast say when we had to decide?** Replays any delivery day and shows the latest Elexon forecast published before the 09:20 UK order deadline on the day before, next to what the wind actually produced.
 2. **How far can we trust it?** Measures forecast error across the month: mean absolute error, bias, percentiles, error by forecast horizon / wind level / hour, and a walk-forward-tested correction.
 
-**Live app:** _to be added after deployment_
+**Live app:** https://nb2iefp5.vercel.app
 
 ## Running it
 
